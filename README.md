@@ -1,5 +1,5 @@
 # Simple-Photo-layout
-Simple Photo layout link: 
+Simple Photo layout link: https://miss-kiparis.github.io/Simple-Photo-layout/
 
 
     Навигационное меню оформлено в виде списка со ссылками
